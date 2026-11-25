@@ -11,7 +11,7 @@ Status: in development.
 | Layer | Component |
 |-------|-----------|
 | Inference | Ollama: Qwen3-30B-A3B (MoE, default), gpt-oss-20b |
-| Front end | Open WebUI: chat history, voice chat, phone access |
+| Front end | Open WebUI: chat history, voice chat, mobile access |
 | Voice | Whisper (speech-to-text), neural TTS through a local OpenAI-compatible endpoint |
 | Access | Tailscale mesh, HTTPS via `tailscale serve`, no public exposure |
 | Tools | Open WebUI function-calling tools (this repository, `tools/`) |

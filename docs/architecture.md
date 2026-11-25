@@ -1,7 +1,7 @@
 # Architecture
 
 ```
-phone / laptop browser --HTTPS (tailscale serve)--> Open WebUI :8080 --> Ollama :11434 --> models
+client browser --HTTPS (tailscale serve)--> Open WebUI :8080 --> Ollama :11434 --> models
                                                          |
                                                          +--> tools (Python, run inside Open WebUI)
                                                                  |- web_search / web_page  (outbound HTTPS)

@@ -1,6 +1,6 @@
 """
 title: Browser
-description: Drive the logged-in AI Browser on the laptop. Actions need user approval.
+description: Drive an authenticated browser session over CDP. Actions need user approval.
 """
 from urllib.parse import urlparse
 
