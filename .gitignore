@@ -1,0 +1,6 @@
+secrets/
+*.db
+*.log
+*.err
+__pycache__/
+workspace/

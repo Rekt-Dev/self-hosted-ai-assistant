@@ -1,0 +1,5 @@
+{
+  "accounts": {
+    "primary": {"user": "you@example.com", "app_password": "", "imap_host": "imap.example.com"}
+  }
+}
